@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jay-b-ross-check-processor/static/css/main.f855e6bc.css",
+    "main.js": "/jay-b-ross-check-processor/static/js/main.8b2781ad.js",
+    "static/js/453.1c4fb46b.chunk.js": "/jay-b-ross-check-processor/static/js/453.1c4fb46b.chunk.js",
+    "static/media/logo.svg": "/jay-b-ross-check-processor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jay-b-ross-check-processor/index.html",
+    "main.f855e6bc.css.map": "/jay-b-ross-check-processor/static/css/main.f855e6bc.css.map",
+    "main.8b2781ad.js.map": "/jay-b-ross-check-processor/static/js/main.8b2781ad.js.map",
+    "453.1c4fb46b.chunk.js.map": "/jay-b-ross-check-processor/static/js/453.1c4fb46b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8b2781ad.js"
+  ]
+}
