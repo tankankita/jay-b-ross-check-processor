@@ -1,5 +1,6 @@
 {
-  "name": "imtext",
+  "name": "check-processor",
+  "homepage": "https://tankankita.github.io/jay-b-ross-check-processor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
