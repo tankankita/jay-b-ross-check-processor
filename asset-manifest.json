@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.7dab2a52.css",
-    "main.js": "/static/js/main.38f7eb95.js",
-    "index.html": "/index.html",
-    "main.7dab2a52.css.map": "/static/css/main.7dab2a52.css.map",
-    "main.38f7eb95.js.map": "/static/js/main.38f7eb95.js.map"
+    "main.css": "/jay-b-ross-check-processor/static/css/main.7dab2a52.css",
+    "main.js": "/jay-b-ross-check-processor/static/js/main.e5569598.js",
+    "index.html": "/jay-b-ross-check-processor/index.html",
+    "main.7dab2a52.css.map": "/jay-b-ross-check-processor/static/css/main.7dab2a52.css.map",
+    "main.e5569598.js.map": "/jay-b-ross-check-processor/static/js/main.e5569598.js.map"
   },
   "entrypoints": [
     "static/css/main.7dab2a52.css",
-    "static/js/main.38f7eb95.js"
+    "static/js/main.e5569598.js"
   ]
 }
