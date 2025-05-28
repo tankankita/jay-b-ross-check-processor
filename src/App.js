@@ -76,10 +76,6 @@ const convertCroppedImageToText = useCallback(async () => {
     });
   }, [textResult]);
 
-
-
-
-
   const handleChangeImage = (e) => {
     const file = e.target.files[0];
     if (!file) {
@@ -102,7 +98,7 @@ const convertCroppedImageToText = useCallback(async () => {
         const canvas = document.createElement('canvas');
         const ctx = canvas.getContext('2d');
         const width = img.width;
-        const height = img.height / 2;
+        const height = img.height / 3;
 
         canvas.width = width;
         canvas.height = height;
